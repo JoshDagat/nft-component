@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [NFT Component Repo](https://github.com/JoshDagat/nft-component)
-- Live Site URL: [NFT Component Live Demo](https://your-live-site-url.com)
+- Live Site URL: [NFT Component Live Demo](https://joshdagat.github.io/nft-component/)
 
 ## My process
 
